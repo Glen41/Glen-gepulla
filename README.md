@@ -15,10 +15,10 @@ The team on defense is the team without the basketball.
 1. The main rule for the defensive player is not to foul. A foul is described as gaining an unfair advantage through physical contact. There is some interpretation that has to be made by the referee, but, in general, the defensive player may not touch the offensive player in a way that causes the offensive player to lose the ball or miss a shot. Rules for everyoneAlthough the foul rule is described above as a defensive rule, it applies exactly the same to all players on the court including offensive players.
 2. Basketball players cannot kick the ball or hit it with their fist.
 3. No player can touch the basketball while it is traveling downward towards the basket or if it is on the rim. This is called goaltending. (touching the ball on the rim is legal in some games). Every player on the court is subject to the same rules regardless of the position they play. The positions in basketball are just for team basketball strategy and there are no positions in the rules.
-```
+
 Read more at: [https://www.ducksters.com/sports/basketballrules.php](url)
 This text is Copyright © Ducksters.
-```
+
 
 
 ```markdown
