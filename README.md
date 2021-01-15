@@ -1,5 +1,6 @@
 ## **computer assembly step by step**
-1.**open the case**
+
+1. **open the case**
 
 2. **Install the power supply**
 
@@ -29,5 +30,7 @@
 For more details see [YouTube.com](https://youtu.be/hWB2UHCT0dw).
 
 ### Support or Contact
+
+[glengepulla18@gmail.com](https://www.gmail.com)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
